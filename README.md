@@ -20,15 +20,19 @@ Giriş resminin BMP piksel değerleri kullanılarak kümeleme işlemi yapılmas�
 # 1.Fonksiyon 
   - “D2_K_Mean_Clustering()C fonksiyonu sağlıklı bir Binary resim dönüşümü için kullanılmıştır. En ideal parlaklık değeri seçilerek Binary fonksiyonunda kullanılır.
 # 2.Fonksiyon 
-  -“MULTID_K_Means_Clustering()” fonksiyonu resmin N tane pikseli içerisinde k tane küme belirlenmesi için kullanılır ve bu kümeler için gri tonlama ile ayrım gösterilir.
+  - “MULTID_K_Means_Clustering()” fonksiyonu resmin N tane pikseli içerisinde k tane küme belirlenmesi için kullanılır ve bu kümeler için gri tonlama ile ayrım gösterilir.
 # 3.Fonksiyon 
-  -“MultD_K_Means_Clustering()” fonksiyonu resmin içerisinden kümeleri belirleyerek bunlara RGB değerleri vererek farklı renklerde gösterilmesi içindir.
+  - “MultD_K_Means_Clustering()” fonksiyonu resmin içerisinden kümeleri belirleyerek bunlara RGB değerleri vererek farklı renklerde gösterilmesi içindir.
 
 # Binary Image
 
   “BinaryImage()” fonksiyonu aldığı parametreler arasında	"D2_K_Mean_Clustering()" fonksiyonundan gelen ideal piksel değerine göre resmi siyah-beyaz (0-255 parlaklık değeri) olarak ifade eder.
   
-![alt text](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp)
+- BMP İmage
+![image](https://github.com/tlhdrty/image-processing/blob/main/image.bmp)
+
+- Binary İmage
+![binary](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp)
 
   
   

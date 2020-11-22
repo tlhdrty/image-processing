@@ -16,7 +16,7 @@ Giriş resminin BMP piksel değerleri kullanılarak kümeleme işlemi yapılmas�
 “kaynak.h” dosyasında K-Means algoritması için 3 farklı fonksiyon bulunmaktadır.
 
 # 1.Fonksiyon 
-  - “D2_K_Mean_Clustering()C fonksiyonu sağlıklı bir Binary resim dönüşümü için kullanılmıştır. En ideal parlaklık değeri seçilerek Binary fonksiyonunda kullanılır.
+  - “D2_K_Mean_Clustering()” C fonksiyonu sağlıklı bir Binary resim dönüşümü için kullanılmıştır. En ideal parlaklık değeri seçilerek Binary fonksiyonunda kullanılır.
 # 2.Fonksiyon 
   - “MULTID_K_Means_Clustering()” fonksiyonu resmin N tane pikseli içerisinde k tane küme belirlenmesi için kullanılır ve bu kümeler için gri tonlama ile ayrım gösterilir.
 # 3.Fonksiyon 

@@ -1,8 +1,6 @@
 # image-processing
 
 
-Geometrik şekilleri farklı nesne algılama ve sınıflandırılması
-
 Projede BMP uzantılı resim kullanılacak olup BMP dönüşüm işlemleri ders içerisinde verilen kaynak kodlarla yapılmıştır. Bahsi geçen fonksiyonlar ekte bulunan “kaynak.h” ve “kaynak.cpp” C++ çalışma sayfalarında bulunmaktadır.
 
 # K-Means Clustering 
@@ -28,9 +26,9 @@ Giriş resminin BMP piksel değerleri kullanılarak kümeleme işlemi yapılmas�
 
   “BinaryImage()” fonksiyonu aldığı parametreler arasında	"D2_K_Mean_Clustering()" fonksiyonundan gelen ideal piksel değerine göre resmi siyah-beyaz (0-255 parlaklık değeri) olarak ifade eder.
   
-![image](https://github.com/tlhdrty/image-processing/blob/main/image.bmp?raw=true "BMP İmage")
+![image](https://github.com/tlhdrty/image-processing/blob/main/image.bmp?raw=true "BMP İmage")   ![binary](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp?raw=true "Binary İmage")
 
-![binary](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp?raw=true "Binary İmage")
+
 
   
   

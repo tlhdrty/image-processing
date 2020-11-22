@@ -32,7 +32,7 @@ Giriş resminin BMP piksel değerleri kullanılarak kümeleme işlemi yapılmas�
 ![image](https://github.com/tlhdrty/image-processing/blob/main/image.bmp)
 
 - Binary İmage
-![binary](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp)
+![binary](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp?raw=true)
 
   
   

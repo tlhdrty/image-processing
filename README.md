@@ -28,7 +28,7 @@ Giriş resminin BMP piksel değerleri kullanılarak kümeleme işlemi yapılmas�
 
   “BinaryImage()” fonksiyonu aldığı parametreler arasında	"D2_K_Mean_Clustering()" fonksiyonundan gelen ideal piksel değerine göre resmi siyah-beyaz (0-255 parlaklık değeri) olarak ifade eder.
   
-![alt text](http://url/to/binary.bmp)
+![alt text](https://github.com/tlhdrty/image-processing/blob/main/binary.bmp)
 
   
   
